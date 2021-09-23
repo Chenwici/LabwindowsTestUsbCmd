@@ -1,0 +1,1 @@
+-force-include-file "serial.c";"d:\LabwindowsTestUsbCmdGithub\MainCode\serial.c" -force-include-file "serial.h";"d:\LabwindowsTestUsbCmdGithub\MainCode\serial.h" 

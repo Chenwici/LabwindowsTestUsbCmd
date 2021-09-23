@@ -1,0 +1,14 @@
+[Workspace Header]
+Active Project = 1
+Number of Projects = 1
+Project 0001 = "commcallback.prj"
+Version = 1700 
+
+[Build Options 0001]
+Debugging Level = "Extended"
+
+[Default Build Config 0001 Debug]
+Debugging Level = "Extended"
+
+[Default Build Config 0001 Debug64]
+Debugging Level = "Extended"
